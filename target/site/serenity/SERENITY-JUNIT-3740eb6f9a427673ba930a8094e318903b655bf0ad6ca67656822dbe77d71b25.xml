@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.automation.apptests.RegisterPageTest" skipped="0" tests="1" time="4.44" timestamp="2021-10-07 10:28:04"><testcase classname="com.automation.apptests.RegisterPageTest" name="App register test"><error message="org/fluentlenium/core/FluentAdapter" type="java.lang.NoClassDefFoundError">org/fluentlenium/core/FluentAdapter</error><system-err>org/fluentlenium/core/FluentAdapter
+com.automation.steps.RegisterPageSteps.isOnRegistryPage(RegisterPageSteps.java:12)
+com.automation.apptests.RegisterPageTest.appRegisterTest(RegisterPageTest.java:22)
+</system-err></testcase></testsuite>
